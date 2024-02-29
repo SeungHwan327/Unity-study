@@ -1,4 +1,5 @@
 # 🔥 What is Unity?
+![image](https://github.com/SeungHwan327/Unity-study/assets/100602010/57c6b8ae-e79a-4710-a57c-42f54a88303c)
 Unity is a game engine that provides a development environment for 3D and 2D video games, and an integrated production tool for creating interactive content such as 3D animation, architectural visualization, and virtual reality (VR).
 
 Additionally, Unity can create content that can be used on 27 platforms, including Windows, macOS, iOS, Android, PlayStation, Xbox, Nintendo Switch, and web browser (WebGL), and the Unity Editor, a production tool, supports Windows and macOS. Support.
