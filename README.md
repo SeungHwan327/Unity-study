@@ -1,18 +1,19 @@
-# 🔥 Unity란?
-유니티(Unity)는 3D 및 2D 비디오 게임의 개발 환경을 제공하는 게임 엔진이자, 3D 애니메이션과 건축 시각화, 가상현실(VR) 등 인터랙티브 콘텐츠 제작을 위한 통합 제작 도구이다.
+# 🔥 What is Unity?
+Unity is a game engine that provides a development environment for 3D and 2D video games, and an integrated production tool for creating interactive content such as 3D animation, architectural visualization, and virtual reality (VR).
 
-또한 유니티는 윈도우, 맥OS, iOS, 안드로이드, 플레이스테이션, 엑스박스, 닌텐도 스위치, 웹브라우저(WebGL) 등 27개의 플랫폼에서 사용 가능한 콘텐츠를 만들 수 있고, 제작 도구인 유니티 에디터는 윈도우와 맥OS를 지원한다.
+Additionally, Unity can create content that can be used on 27 platforms, including Windows, macOS, iOS, Android, PlayStation, Xbox, Nintendo Switch, and web browser (WebGL), and the Unity Editor, a production tool, supports Windows and macOS. Support.
 
-그리고 유니티는 2005년 애플 세계 개발자 회의(WWDC)에서 애플 OSX용 게임 엔진으로 최초 공개되었다. 2016년 기준으로, 전 세계 게임엔진 시장의 45%를 차지하는 가장 인기있는 게임엔진이며, 등록 개발자 수는 5백만 명이 넘는다.
+And Unity was first unveiled as a game engine for Apple OSX at the 2005 Apple Worldwide Developers Conference (WWDC). As of 2016, it is the most popular game engine, accounting for 45% of the global game engine market, and the number of registered developers exceeds 5 million.
 
-엔진 자체에 라이트 매핑, 물리 엔진 등 미들웨어를 탑재했으며, 에디터에 내장된 애셋스토어를 통해 다양한 기능의 애셋을 다운로드하여 사용할 수 있다.
+The engine itself is equipped with middleware such as light mapping and physics engine, and various functional assets can be downloaded and used through the asset store built into the editor.
 
-퍼스널, 플러스, 프로 세가지 판으로 배포되며 개인은 퍼스널판을 무료로 이용할 수 있다. Unity Technology Japan에서 제공하는 유니티짱(Unity chan)이라는 공식 오리지널 캐릭터가 있다. 게임 엔진 Unity를 사용하는 개발자들이 캐릭터를 자유롭게 설정할 수 있도록 이용 약관에 준하는 형태로 무료 배포하고 있다.
+It is distributed in three editions: Personal, Plus, and Pro, and individuals can use the personal edition for free. There is an official original character called Unity chan provided by Unity Technology Japan. It is distributed free of charge in accordance with the Terms of Use so that developers using the game engine Unity can freely set their characters.
+​
 
-# 😁 공부 목적:
-1. 프로젝트 준비 
-2. 유니티에 익숙해지기
+# 😁 Study Purpose:
+1. Project 
+2. Familiar to Unity
 
-# 😁 공부 방법:
-1. 유튜브를 통해 유니티 무료 강의를 듣기 (완료)
-   (나도코딩-5시간 만에 게임 만드는 법 배우기 https://www.youtube.com/watch?v=rJE6bhVUNhk&t=48s)
+# 😁 Study Plan:
+1.Listen to free Unity lectures on YouTube (completed)
+   (I also code - Learn how to make a game in 5 hours https://www.youtube.com/watch?v=rJE6bhVUNhk&t=48s)
