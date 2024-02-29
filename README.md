@@ -15,5 +15,5 @@ It is distributed in three editions: Personal, Plus, and Pro, and individuals ca
 2. Familiar to Unity
 
 # 😁 Study Plan:
-1.Listen to free Unity lectures on YouTube (completed)
+1. Listen to free Unity lectures on YouTube (completed)
    (I also code - Learn how to make a game in 5 hours https://www.youtube.com/watch?v=rJE6bhVUNhk&t=48s)
